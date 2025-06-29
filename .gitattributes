@@ -1,0 +1,7 @@
+*.dart linguist-language=Dart
+*.gradle linguist-language=Ignore
+*.kt linguist-language=Ignore
+*.java linguist-language=Ignore
+*.xml linguist-language=Ignore
+*.cpp linguist-language=Ignore
+*.h linguist-language=Ignore
